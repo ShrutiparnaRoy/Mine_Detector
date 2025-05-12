@@ -1,1 +1,2 @@
 **Mine VS Rock Detection using Sonar Data**
+A sonar-based model using logistic regression achieved 76% accuracy in distinguishing between underwater mines and rocks. Logistic regression, a binary classification algorithm, learns to predict the probability of a sonar signal belonging to either "mine" or "rock" class based on acoustic features. 1  This accuracy indicates a good, but not perfect, ability to differentiate these objects from sonar data
