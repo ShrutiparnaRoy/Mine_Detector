@@ -1,1 +1,1 @@
-**Mine VS Rock Detection using Sonar Data **
+**Mine VS Rock Detection using Sonar Data**
